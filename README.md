@@ -5,7 +5,7 @@ BCA student @Bishop Heber collegehttps://github.com/rit252715/rit252715/edit/mai
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/ritthik-rb/)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/ritthik-rb-08ab4a318/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 ### I code in
